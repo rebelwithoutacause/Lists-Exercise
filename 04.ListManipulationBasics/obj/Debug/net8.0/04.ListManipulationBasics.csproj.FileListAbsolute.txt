@@ -1,0 +1,14 @@
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\04.ListManipulationBasics\bin\Debug\net8.0\04.ListManipulationBasics.exe
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\04.ListManipulationBasics\bin\Debug\net8.0\04.ListManipulationBasics.deps.json
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\04.ListManipulationBasics\bin\Debug\net8.0\04.ListManipulationBasics.runtimeconfig.json
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\04.ListManipulationBasics\bin\Debug\net8.0\04.ListManipulationBasics.dll
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\04.ListManipulationBasics\bin\Debug\net8.0\04.ListManipulationBasics.pdb
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\04.ListManipulationBasics\obj\Debug\net8.0\04.ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\04.ListManipulationBasics\obj\Debug\net8.0\04.ListManipulationBasics.AssemblyInfoInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\04.ListManipulationBasics\obj\Debug\net8.0\04.ListManipulationBasics.AssemblyInfo.cs
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\04.ListManipulationBasics\obj\Debug\net8.0\04.ListManipulationBasics.csproj.CoreCompileInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\04.ListManipulationBasics\obj\Debug\net8.0\04.ListManipulationBasics.dll
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\04.ListManipulationBasics\obj\Debug\net8.0\refint\04.ListManipulationBasics.dll
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\04.ListManipulationBasics\obj\Debug\net8.0\04.ListManipulationBasics.pdb
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\04.ListManipulationBasics\obj\Debug\net8.0\04.ListManipulationBasics.genruntimeconfig.cache
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\04.ListManipulationBasics\obj\Debug\net8.0\ref\04.ListManipulationBasics.dll
