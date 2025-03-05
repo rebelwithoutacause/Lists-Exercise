@@ -1,0 +1,14 @@
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\02.HouseParty\bin\Debug\net8.0\02.HouseParty.exe
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\02.HouseParty\bin\Debug\net8.0\02.HouseParty.deps.json
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\02.HouseParty\bin\Debug\net8.0\02.HouseParty.runtimeconfig.json
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\02.HouseParty\bin\Debug\net8.0\02.HouseParty.dll
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\02.HouseParty\bin\Debug\net8.0\02.HouseParty.pdb
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\02.HouseParty\obj\Debug\net8.0\02.HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\02.HouseParty\obj\Debug\net8.0\02.HouseParty.AssemblyInfoInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\02.HouseParty\obj\Debug\net8.0\02.HouseParty.AssemblyInfo.cs
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\02.HouseParty\obj\Debug\net8.0\02.HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\02.HouseParty\obj\Debug\net8.0\02.HouseParty.dll
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\02.HouseParty\obj\Debug\net8.0\refint\02.HouseParty.dll
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\02.HouseParty\obj\Debug\net8.0\02.HouseParty.pdb
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\02.HouseParty\obj\Debug\net8.0\02.HouseParty.genruntimeconfig.cache
+C:\Users\rebel\Desktop\QA Exercises\Exercise Lists\ExerciseListsMonday\02.HouseParty\obj\Debug\net8.0\ref\02.HouseParty.dll
